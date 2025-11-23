@@ -1,4 +1,6 @@
 # Zomato-Rider-Operations-Analytics
+<img width="793" height="400" alt="image" src="https://github.com/user-attachments/assets/cf541389-f1f2-49c3-b087-804af77e76d9" />
+
 
 This project presents a complete operational analytics deep-dive into Zomato-style last-mile delivery performance using rider-level order data.  
 It examines where delays occur in the delivery funnel, why cancellations happen, and how delivery efficiency can be improved using data-driven insights.
